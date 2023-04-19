@@ -1,0 +1,6 @@
+.showPosts{
+    width: 500px;
+    border:  1px solid rgb(33, 63, 92);
+    text-align: center;
+    display: inline-block;
+}
